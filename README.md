@@ -36,11 +36,6 @@ Cleans and structures the data using pandas.
 
 Exports the results to a CSV file for future analysis.
 
-📊 Example Output
-Coin Name	Symbol	Current Price	Market Cap	24h Volume
-Bitcoin	BTC	$65,000	$1.2T	$25B
-Ethereum	ETH	$3,200	$380B	$12B
-
 
 💡 Future Enhancements
 
